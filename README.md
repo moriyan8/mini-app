@@ -1,24 +1,14 @@
-# README
+# Boat mini-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ボートレースの順位を 1〜6 位までランダムに決定するミニアプリです。
+Rails 学習の一環として、簡単なゲーム要素を取り入れた練習用アプリとして制作します。
 
-Things you may want to cover:
+---
 
-* Ruby version
+## 🎮 アプリの特徴
 
-* System dependencies
+- ボタンを押すと、1〜6 の数字がランダムに並び替えられ、順位が決まります。
+- ボートレースの着順を考える際に「自分で考えなくても楽しめる」ことを意識しました。
+- Rails の基礎的な学習を目的としています。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
