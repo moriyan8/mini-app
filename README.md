@@ -12,3 +12,13 @@ Rails 学習の一環として、簡単なゲーム要素を取り入れた練�
 - Rails の基礎的な学習を目的としています。
 
 ---
+## 使用技術
+
+- **バックエンド**: Ruby on Rails (APIモード)
+- **フロントエンド**: Next.js (React + TypeScript)
+- **言語**: Ruby, TypeScript
+- **通信**: REST API (Rails ⇔ Next.js)
+
+- **その他**:
+  - Git / GitHub
+  - CSS / Tailwind CSS（UI スタイリング予定）
